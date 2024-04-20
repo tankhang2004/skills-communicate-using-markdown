@@ -7,7 +7,9 @@
 print('hello')
 ```
 ## learning 3
-
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself
 ### step 4
 
 #### step 5
